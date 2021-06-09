@@ -1,0 +1,45 @@
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.exe.config
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.exe
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.pdb
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat_MarkupCompile.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat_MarkupCompile.lref
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.g.resources
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P_chat.Properties.Resources.resources
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.exe
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.pdb
+\\Mac\Home\Downloads\CSaN_Lab_3-main\bin\Debug\P2P-chat.exe.config
+\\Mac\Home\Downloads\CSaN_Lab_3-main\bin\Debug\P2P-chat.exe
+\\Mac\Home\Downloads\CSaN_Lab_3-main\bin\Debug\P2P-chat.pdb
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat_MarkupCompile.cache
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat_MarkupCompile.lref
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.g.resources
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P_chat.Properties.Resources.resources
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.exe
+\\Mac\Home\Downloads\CSaN_Lab_3-main\obj\Debug\P2P-chat.pdb
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\bin\Debug\P2P-chat.exe.config
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\bin\Debug\P2P-chat.exe
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\bin\Debug\P2P-chat.pdb
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\App.g.cs
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat_MarkupCompile.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat_MarkupCompile.lref
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.g.resources
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P_chat.Properties.Resources.resources
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.csproj.GenerateResource.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.exe
+\\Mac\Home\Documents\№4 сем\КСиС\laba3\laba3\obj\Debug\P2P-chat.pdb
